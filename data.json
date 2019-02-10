@@ -8,5 +8,50 @@
     "name": "Flora Power (Mate)",
     "image": "flora.jpg",
     "price": "2.3"
+  },
+  {
+    "image": "premium.jpg",
+    "name": "Premium Cola",
+    "price": "2.3"
+  },
+  {
+    "image": "spezi.jpg",
+    "name": "Spezi",
+    "price": "2.3"
+  },
+  {
+    "image": "rhubarb.jpg",
+    "name": "rhubarb",
+    "price": "2.3"
+  },
+  {
+    "image": "selters_classic.jpg",
+    "name": "Selters classic",
+    "price": "2.0"
+  },
+  {
+    "image": "selters_naturell.jpg",
+    "name": "Selters naturell",
+    "price": "2.0"
+  },
+  {
+    "image": "kraftmalz.jpg",
+    "name": "KraftMalz",
+    "price": "2.3"
+  },
+  {
+    "image": "obc_strong.jpg",
+    "name": "OBC strong",
+    "price": "3.0"
+  },
+  {
+    "image": "berliner.jpg",
+    "name": "Berliner Pilsner",
+    "price": "3.0"
+  },
+  {
+    "image": "laschak.jpg",
+    "name": "720 (light lager)",
+    "price": "3.0"
   }
 ]
